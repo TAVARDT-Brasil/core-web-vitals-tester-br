@@ -49,3 +49,7 @@ Para auditoria aprofundada de velocidade e simulacao de dispositivos:
 ## Consultoria em Otimizacao de Performance Web
 
 Para aceleracao de carregamento e conformidade com Diretrizes de Experiencia de Pagina Google e W3C, consulte os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
