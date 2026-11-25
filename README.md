@@ -6,8 +6,6 @@
 
 Analise de TTFB, compressao de dados, recursos bloqueantes de renderizacao e prevencao de deslocamento de layout (CLS).
 
-Desenvolvido e mantido pela divisao de engenharia de performance web e experiencia do usuario da **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Core Web Vitals
@@ -38,15 +36,6 @@ python cwv_tester.py https://empresa.com.br -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para auditoria aprofundada de velocidade e simulacao de dispositivos:
-
-* **Teste de Core Web Vitals Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Consultoria em Otimizacao de Performance Web
 
 Para aceleracao de carregamento e conformidade com Diretrizes de Experiencia de Pagina Google e W3C, consulte os especialistas da **TAVARDT**.
@@ -62,7 +51,7 @@ Para aceleracao de carregamento e conformidade com Diretrizes de Experiencia de 
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
